@@ -1,6 +1,5 @@
 # 💫 About Me:
-## 👋 Hi, I'm Eyuel Ashenafi<br><br>🎓 Software Engineering Student at Adama Science and Technology University (ASTU)<br><br>### 🧠 Programming Languages & Technologies<br>- **Java** (OOP, basic data structures)<br>- **Python** (problem solving, scripting)<br>- **JavaScript**<br>- **HTML & CSS**<br>- **MySQL**<br>- **React (basic)**<br>- **Node.js (beginner)**<br><br><br><br>
-
+## 👋 Hi, I'm Eyuel Ashenafi<br><br>🎓 Software Engineering Student at Adama Science and Technology University (ASTU)<br><br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/eyuel_ashenafi_ea) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eyuel-ashenafi-16a474382) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:eashenafi82@gmail.com) 
